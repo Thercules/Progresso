@@ -1,0 +1,11 @@
+div.logout a {
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    border: 1px solid #fff;
+    
+}
+
+div.logout a:hover {
+    background-color: #000;
+}

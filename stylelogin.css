@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+form {
+    padding: 15px;
+}
+
+label {
+    color: #fff;
+}
+
+form {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #fff;
+    color: blue;
+}
+
+
+
+body{
+    background: -webkit-gradient(linear, left bottom, left top, from(#002fff), to(#0077ff)) fixed;
+}
